@@ -12,7 +12,7 @@
 
 ### 🧠 Tech Stack & Tools
 
-- **Languages**: HTML,CSS,JavaScript,Python, SQL
+- **Languages**: HTML, CSS, JavaScript, Python, SQL
 - **Frameworks**: Flask, React  
 - **Databases**: SQLite, PostgreSQL  
 - **Tools**: Git, VS Code, Docker, Linux  
@@ -30,8 +30,8 @@
 ### 🔥 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rotz-kirwa &show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rotz-kirwa &theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rotz-kirwa&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rotz-kirwa&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
   <a href="mailto:eliudkirwa451@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/RotzKirwa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
