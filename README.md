@@ -43,7 +43,8 @@
 ### ⚡ Futuristic Touch
 
 <p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/main/divider.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3ohs7KViF8zEVOkS3O/giphy.gif" width="70%" />
 </p>
 
 ---
