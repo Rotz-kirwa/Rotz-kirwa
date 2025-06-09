@@ -43,30 +43,7 @@
 ### ⚡ Futuristic Touch
 
 <p align="center">
-  <svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#0AFFEF" />
-        <stop offset="50%" stop-color="#FF00FF" />
-        <stop offset="100%" stop-color="#0AFFEF" />
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB" >
-        <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#0affef" flood-opacity="0.9"/>
-        <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#ff00ff" flood-opacity="0.7"/>
-      </filter>
-      <animate
-        xlink:href="#text"
-        attributeName="fill"
-        values="url(#gradient);url(#gradient);url(#gradient)"
-        dur="6s"
-        repeatCount="indefinite" />
-    </defs>
-    <text id="text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-family="Orbitron, monospace" font-weight="900" font-size="48"
-      fill="url(#gradient)" filter="url(#glow)" >
-      ALGOKING TECH
-    </text>
-  </svg>
+  <img src="https://i.imgur.com/3hVg6xH.gif" alt="ALGOKING TECH Futuristic Animation" width="400" />
 </p>
 
 
