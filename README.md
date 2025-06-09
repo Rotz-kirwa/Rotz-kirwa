@@ -43,7 +43,7 @@
 ### ⚡ Futuristic Touch
 
 <p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="100%" />
+  <img src="https://i.gifer.com/VAyR.gif" width="100%" />
 </p>
 
 ---
@@ -60,6 +60,11 @@
   <a href="https://twitter.com/RotzKirwa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://wa.me/254791260817">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">📞 <strong>+254 791 260817</strong></p>
 
 <p align="center">🌌 <i>"Building tools for a smarter future..."</i></p>
