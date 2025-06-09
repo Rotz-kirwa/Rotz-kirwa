@@ -40,13 +40,6 @@
 
 ---
 
-### ⚡ Futuristic Touch
-
-<p align="center">
-  <img src="https://i.imgur.com/3hVg6xH.gif" alt="ALGOKING TECH Futuristic Animation" width="400" />
-</p>
-
-
 ### 🤖 Let's Connect
 
 <p align="center">
