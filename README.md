@@ -1,12 +1,12 @@
 <!-- ============================================================
-     ELIUD ROTICH — FUTURISTIC AI / CLOUD / FULLSTACK GITHUB README
+     ELIUD ROTICH — FUTURISTIC AI / CLOUD / WEB3 / FULLSTACK README
      ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFEF,100:7B2FF7&height=220&section=header&text=ELIUD%20ROTICH&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Cloud%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFEF,100:7B2FF7&height=220&section=header&text=ELIUD%20ROTICH&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2C%20Cloud%20%26%20Web3%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&duration=3500&pause=900&color=0AFFEF&center=true&vCenter=true&width=900&height=60&lines=Building+AI-powered+full-stack+systems;Shipping+on+AWS+%26+cloud-native+infra;Founder+%40+WebMakers+%7C+Nairobi%2C+Kenya;GCP+ML+Engineer+in+progress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&duration=3500&pause=900&color=0AFFEF&center=true&vCenter=true&width=900&height=60&lines=Building+AI-powered+full-stack+systems;Shipping+on+AWS+%26+cloud-native+infra;Exploring+Web3+%26+smart+contracts;Founder+%40+WebMakers+%7C+Nairobi%2C+Kenya;GCP+ML+Engineer+in+progress" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <!-- ================= TECH ORBIT ================= -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,flask,postgres,sqlite,docker,aws,gcp,nginx,linux,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,flask,postgres,sqlite,docker,aws,gcp,nginx,linux,git,solidity,vscode,figma" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 const eliud = {
   role: "Full-Stack Software Engineer",
   founder: "WebMakers — Nairobi-based dev agency, 30+ shipped client projects",
-  focus: ["AI-integrated apps", "Cloud infrastructure", "African fintech/payments"],
+  focus: ["AI-integrated apps", "Cloud infrastructure", "African fintech/payments", "Web3 & smart contracts"],
   currentlyLearning: "GCP ML Engineer Certification",
   fun_fact: "Ships production M-Pesa & Flutterwave integrations in his sleep"
 };
@@ -44,25 +44,26 @@ const eliud = {
 - 🎯 Building **OddsArena** — a coin-economy sports prediction platform
 - 🎟️ Shipped **TaifaStats** — an offline-capable, cryptographic QR ticketing system
 - ☁️ Deploying full-stack apps on **AWS / GCP / Vultr** with Docker + Nginx
+- 🔗 Exploring **Web3**: smart contracts, dApp architecture, wallet integrations
 - 💳 Specialist in African payment rails: **M-Pesa Daraja STK Push, Flutterwave, Paystack**
 
 ---
 
-### ⚙️ Tech Stack & Cloud Toolbelt
+### ⚙️ Tech Stack & Cloud / Web3 Toolbelt
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Frameworks**
 <br/>
@@ -72,7 +73,7 @@ const eliud = {
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Cloud & DevOps**
 <br/>
@@ -81,6 +82,16 @@ const eliud = {
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white"/>
+
+</td>
+<td valign="top" width="25%">
+
+**Web3**
+<br/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white"/>
 
 </td>
 </tr>
