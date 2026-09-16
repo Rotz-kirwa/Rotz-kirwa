@@ -2,15 +2,24 @@
 
 <!-- ========================================================= -->
 
-<!--                     HERO                                  -->
+<!--              CINEMATIC HERO // ELIUD ROTICH              -->
 
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A33,45:0D47A1,75:16A34A,100:FACC15&height=300&section=header&text=ELIUD%20ROTICH&fontSize=76&fontColor=FFFFFF&fontAlignY=32&desc=FULL-STACK%20%E2%80%A2%20AI%20%E2%80%A2%20CLOUD%20%E2%80%A2%20WEB3&descAlignY=57&descSize=21&animation=fadeIn&font=Orbitron" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=1000&height=70&lines=%E2%9A%A1+FULL-STACK+ENGINEER;%F0%9F%A4%96+AI+SYSTEMS+BUILDER;%E2%98%81%EF%B8%8F+CLOUD+%26+INFRASTRUCTURE;%F0%9F%92%B3+AFRICAN+FINTECH+ENGINEER;%E2%9B%93%EF%B8%8F+WEB3+EXPLORER;%F0%9F%87%B0%F0%9F%87%AA+BUILDING+FROM+NAIROBI+TO+THE+WORLD;%F0%9F%8C%B8+CODE+LIKE+ANIME+%E2%80%94+SHIP+LIKE+A+BOSS"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00040A,20:03152E,40:0A2F5A,60:064E3B,80:15803D,100:B8860B&height=360&section=header&text=ELIUD%20ROTICH&fontSize=88&fontColor=FFFFFF&fontAlignY=40&desc=FULL-STACK%20ENGINEER%20%20%E2%80%A2%20%20AI%20BUILDER%20%20%E2%80%A2%20%20CLOUD%20%20%E2%80%A2%20%20WEB3&descAlignY=67&descSize=20&descColor=CBD5E1&animation=fadeIn&font=Orbitron&stroke=38BDF8&strokeWidth=1" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=45&lines=%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+ARCHITECTING+SCALABLE+SOFTWARE;%3E+TURNING+IDEAS+INTO+PRODUCTS;%3E+NAIROBI+%E2%86%92+AFRICA+%E2%86%92+GLOBAL"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CLOUD-2563EB?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/WEB3-FACC15?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FINTECH-EF4444?style=for-the-badge&labelColor=020617"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rotz-kirwa&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Rotz-kirwa?label=FOLLOWERS&style=for-the-badge&color=22C55E"/>
@@ -36,13 +45,13 @@
 
 <!-- ========================================================= -->
 
-<!--                     SYSTEM STATUS                         -->
+<!--                    SYSTEM STATUS                          -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-### 🟢 SYSTEM STATUS
+## 🟢 SYSTEM STATUS
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20ONLINE-22C55E?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%AA%20NAIROBI-2563EB?style=for-the-badge&labelColor=0B1220"/>
@@ -55,6 +64,12 @@
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                 DEVELOPER IDENTITY                        -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -116,6 +131,12 @@ My focus is turning complex ideas into reliable production systems — with anim
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                 ENGINEERING FOCUS                         -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -188,6 +209,12 @@ Payment Systems
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                      TECH STACK                           -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -262,6 +289,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                    ACTIVE PROJECTS                        -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🚀 ACTIVE PROJECTS
@@ -272,7 +305,7 @@ Payment Systems
 
 <td width="50%" valign="top" align="center">
 
-## 🟢 MQU LIMA
+## 🟢 MQULIMA
 
 <img src="https://img.shields.io/badge/AI-22C55E?style=for-the-badge&labelColor=0B1220"/>
 <img src="https://img.shields.io/badge/AGRITECH-16A34A?style=for-the-badge&labelColor=0B1220"/>
@@ -372,6 +405,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                     TERMINAL                             -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🖥️ TERMINAL // STATUS
@@ -408,6 +447,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                   GITHUB STATS                            -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 📊 GITHUB COMMAND CENTER
@@ -426,6 +471,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                CONTRIBUTION MATRIX                        -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 📈 CONTRIBUTION MATRIX
@@ -442,6 +493,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                     TROPHIES                              -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🏆 ACHIEVEMENT SYSTEM
@@ -453,6 +510,12 @@ Payment Systems
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                   DEVELOPER TELEMETRY                     -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -478,6 +541,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                 CURRENTLY EXPLORING                       -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🔭 CURRENTLY EXPLORING
@@ -500,6 +569,12 @@ Payment Systems
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                 NAIROBI → GLOBAL                         -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🌍 NAIROBI → AFRICA → GLOBAL
@@ -521,6 +596,12 @@ Payment Systems
 <br/>
 
 ---
+
+<!-- ========================================================= -->
+
+<!--                    ONE COMMAND                            -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -553,11 +634,24 @@ $ eliud --stack --anime-mode
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                    ANIME SECTION                           -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🌸 ANIME × ENGINEERING
 
 <img src="https://giffiles.alphacoders.com/1541b0da0251e9ad054fb4a6355e053830d58165.gif" width="500"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CODE-2563EB?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/CREATE-22C55E?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/BUILD-FACC15?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/SHIP-EF4444?style=for-the-badge&labelColor=0B1220"/>
 
 </div>
 
@@ -565,15 +659,21 @@ $ eliud --stack --anime-mode
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                    FINAL CTA                              -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 ## 🚀 LET'S BUILD
 
-**Have a difficult problem?**
+### Have a difficult problem?
 
-**Good.**
+# **Good.**
 
-**I like difficult problems.**
+### I like difficult problems.
 
 <br/><br/>
 
@@ -607,6 +707,12 @@ $ eliud --stack --anime-mode
 </div>
 
 <br/>
+
+<!-- ========================================================= -->
+
+<!--                       FOOTER                              -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
