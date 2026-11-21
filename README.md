@@ -1,157 +1,143 @@
 <div align="center">
 
-<img src="./assets/hero-dogfight.svg" width="100%" alt="Eliud Rotich: aerial dogfight banner"/>
+# ELIUD ROTICH
+### **Full-Stack Software Engineer • AI Engineer • Cloud & DevOps Engineer • Software Architect**
+
+<img src="YOUR_HERO_IMAGE_URL" alt="Cinematic aerial dogfight hero banner with fighter jets in storm clouds" width="100%"/>
+
+*Architecting resilient software, AI systems, cloud infrastructure, and fintech platforms from Nairobi to global markets.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-eliud--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://eliud-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rotz--kirwa-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rotz-kirwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliudrotich--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliudrotich-dev/)
+[![Email](https://img.shields.io/badge/Email-eliudkirwa451%40gmail.com-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliudkirwa451@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## Developer Identity
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=38BDF8&center=false&vCenter=true&width=640&height=50&lines=%E2%9C%88+BUILDING+INTELLIGENT+SYSTEMS;%E2%97%86+ARCHITECTING+SCALABLE+SOFTWARE;%E2%96%B8+TURNING+IDEAS+INTO+PRODUCTS"/>
+I am **Eliud Rotich**, a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud & DevOps Engineer**, and **Software Architect** based in **Nairobi, Kenya**, and founder of **WebMakers**. I design and ship production-grade SaaS products, fintech integrations, AI workflows, and cloud systems built for reliability, clarity, and real-world scale.
 
-<br/>
+| Dimension | Profile |
+| :--- | :--- |
+| **Role & Focus** | Full-Stack Software Engineer • AI Engineer • Cloud & DevOps Engineer • Software Architect |
+| **Domain Strengths** | Scalable SaaS, Fintech & Payment Rails, Applied AI & Agents, Cloud Infrastructure |
+| **Base** | Nairobi, Kenya • Building for East Africa and global users |
+| **Studio** | Founder — **WebMakers** |
 
-### ◆ MISSION
+> *"Engineering is turning complex operational problems into fast, observable, and maintainable software systems."*
 
-**Build scalable technology that solves real problems.**
+---
 
-Full-stack software engineer and founder of **WebMakers**. I ship systems across
-**AI ✦ Cloud ✦ Fintech ✦ Web3 ✦ GovTech**, and turn complex ideas into reliable production software.
+## ACTIVE PROJECTS & PRODUCTS
 
-**📍 Nairobi, Kenya** · **🎌 Anime enthusiast who codes**
+### 01. CREDITICA — AI-Powered Fintech & Credit Intelligence Platform
+* **Category:** Banking | Fintech | AI | Risk Intelligence
+* **Overview:** An intelligent financial technology platform designed to modernize credit assessment, lending operations, and financial risk management with structured data evaluation and risk workflows.
+* **Problem Solved:** Manual credit underwriting and fragmented financial checks slow lending decisions, obscure portfolio risk, and make consistent borrower evaluation difficult to scale.
+* **Core Capabilities:**
+  * AI-powered credit risk assessment and intelligent borrower profiling
+  * Predictive default-risk analysis and creditworthiness evaluation
+  * Automated financial data processing and fraud / suspicious-activity detection
+  * Financial analytics, reporting, and intelligent decision-support workflows
+* **Technology Stack:** TypeScript, Python, AI/ML models, modern frontend architecture, backend APIs, PostgreSQL, cloud infrastructure
+* **Architecture & Engineering Highlights:** Built as a modular fintech system separating the TypeScript application layer from Python AI/ML risk services, emphasizing strict data validation, auditability, API reliability, observability, and readiness for banking integrations.
+* **Status:** Active Development
 
-</td>
-<td width="38%" valign="top">
+---
 
-<br/>
+### 02. ODDAARENA — AI-Powered Football Intelligence & Prediction Platform
+* **Category:** SportsTech | Artificial Intelligence | Predictive Analytics
+* **Overview:** An AI-powered football intelligence platform combining analytical modeling and LLM-assisted reasoning to evaluate matches, historical patterns, and performance indicators.
+* **Problem Solved:** Football match research often requires sifting through scattered historical stats, form trends, and head-to-head records across disconnected sources.
+* **Core Capabilities:**
+  * AI-assisted match analysis, historical match statistics, and head-to-head breakdowns
+  * Team and player performance evaluation with goal probability and match outcome modeling
+  * Predictive match intelligence and LLM-powered football research and explanations
+* **Technology Stack:** Python, TypeScript, LLM engines, machine learning, data analytics pipelines, modern API architecture
+* **Architecture & Engineering Highlights:** Combines Python analytical and prediction services with TypeScript application APIs and LLM reasoning layers. Predictions represent probabilistic and analytical estimates rather than guaranteed outcomes.
+* **Status:** Active Development
 
-<img src="https://img.shields.io/badge/%E2%97%86%20AI-22C55E?style=for-the-badge&labelColor=0B1220"/><br/>
-<img src="https://img.shields.io/badge/%E2%97%86%20CLOUD-2563EB?style=for-the-badge&labelColor=0B1220"/><br/>
-<img src="https://img.shields.io/badge/%E2%97%86%20WEB3-FACC15?style=for-the-badge&labelColor=0B1220"/><br/>
-<img src="https://img.shields.io/badge/%E2%97%86%20FINTECH-F97316?style=for-the-badge&labelColor=0B1220"/><br/>
-<img src="https://img.shields.io/badge/%E2%97%86%20GOVTECH-F8FAFC?style=for-the-badge&labelColor=0B1220&logoColor=0B1220"/>
+---
 
-</td>
-</tr>
-</table>
+### 03. KAZI MAJU — International Employment & Recruitment Platform
+* **Category:** HRTech | Recruitment | AI | International Mobility
+* **Overview:** A recruitment and employment platform connecting Kenyan job seekers with verified international opportunities while streamlining profile readiness and application workflows.
+* **Problem Solved:** Cross-border job discovery is frequently hindered by opaque requirements, manual CV tailoring, fragmented application tracking, and fraudulent job listings.
+* **Core Capabilities:**
+  * International job listings, job seeker and employer/recruiter profiles, and country-specific employment guidance
+  * Intelligent job matching, eligibility/qualification alignment, and AI-assisted CV analysis
+  * Automated application assistance, application tracking, recruitment workflow management, and scam / suspicious-job detection
+* **Technology Stack:** TypeScript, Python, AI agents, LLM integrations, modern web architecture, relational database and API integrations
+* **Architecture & Engineering Highlights:** Structured around modular recruitment services, matching pipelines, AI-assisted document workflows, role-aware access control, and verification checks focused on trust and transparency.
+* **Status:** Active Development
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563EB,100:22C55E&height=70&section=header&text=%E2%9A%99%20%20ENGINEERING%20FOCUS&fontSize=28&fontColor=FFFFFF&fontAlignY=60"/>
+### 04. AGENT 21 — Next-Generation Government Transparency & Civic Intelligence Platform
+* **Category:** GovTech | CivicTech | AI | Public Accountability
+* **Overview:** A civic intelligence and public-service platform designed to unify access to government services while bringing structure and visibility to public projects, procurement, and expenditure.
+* **Problem Solved:** Public service information, procurement records, and project timelines are often spread across disconnected portals and dense documents, making civic oversight difficult.
+* **Core Capabilities:**
+  * Unified access to government services, government activity monitoring, and public institution performance tracking
+  * Public project tracking, implementation timelines/progress, and public expenditure insights
+  * Government contract transparency, public procurement analysis, contract cost comparisons, and flagging potentially overpriced public contracts
+  * Citizen feedback and service ratings, intelligent search across public records, and AI-assisted document analysis
+* **Technology Stack:** TypeScript, Python, AI agents, LLM engines, data analytics, modern cloud architecture, API integrations
+* **Architecture & Engineering Highlights:** Designed with modular service boundaries, data aggregation pipelines, document parsing/analysis workflows, and explainable AI summaries tied to source records. Assessments of procurement anomalies or performance remain analytical indicators rather than established legal or factual conclusions without verified evidence.
+* **Status:** Active Development
 
-<br/>
+---
 
-| ◆ Area | ✦ Focus | ▸ Core tools |
-|:---|:---|:---|
-| **AI Systems** | LLM agents · risk models · prediction engines | Python · Gemini · OpenAI · Claude |
-| **Cloud** | Deployment · containers · infrastructure | AWS · GCP · Docker · Nginx · Linux |
-| **Fintech** | Payments · ledgers · risk scoring | M-Pesa · Daraja · STK Push · APIs |
-| **Web3** | Smart contracts · dApps · wallets | Solidity · Ethereum · MetaMask |
+## Technology Stack
 
-**⟫ STACK ⟪** TypeScript ✦ Python ✦ React ✦ Next.js ✦ Node.js ✦ Express ✦ Flask ✦ PostgreSQL ✦ Docker
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` |
+| **Backend** | `Node.js` `Express` `Python` `Flask` `REST APIs` |
+| **AI & Machine Learning** | `OpenAI` `Claude` `Gemini` `LLM Integrations` `AI Agents` `Predictive Analytics` `Machine Learning` |
+| **Databases** | `PostgreSQL` `MySQL` `SQLite` `Redis` |
+| **Cloud & DevOps** | `AWS` `Docker` `Nginx` `Vercel` `Render` `CI/CD` |
+| **Payments & Integrations** | `M-Pesa Daraja API` `Paystack` `Pesapal` `Flutterwave` `Webhooks` |
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:F97316,100:FACC15&height=70&section=header&text=%E2%9C%88%20%20FLAGSHIP%20OPERATIONS&fontSize=28&fontColor=0B1220&fontAlignY=60"/>
+## Engineering Architecture & Capabilities
 
-<br/>
+* **Full-Stack Application Architecture:** Designing cohesive web applications and APIs with clear boundaries between UI state, business logic, and data storage.
+* **Microservices & Modular Architecture:** Decoupling independent workloads—such as analytics, AI pipelines, notifications, and core APIs—for maintainability and independent scaling.
+* **AI Systems & Agent Workflows:** Integrating LLMs, structured tool calling, retrieval/analysis pipelines, and AI agents into practical product workflows with predictable fallbacks.
+* **API Design & Third-Party Integrations:** Building clean RESTful services and resilient integrations with external providers and asynchronous webhooks.
+* **Database Design & Optimization:** Modeling relational schemas, indexing strategies, query performance, and caching layers with PostgreSQL, MySQL, SQLite, and Redis.
+* **Authentication & Authorization:** Implementing session/token security, role-based access control, and protected data boundaries across client and server layers.
+* **Cloud Deployment, DevOps & CI/CD:** Containerizing services with Docker, configuring reverse proxies with Nginx, automating builds/deployments, and hosting on AWS, Vercel, and Render.
+* **Payment Engineering & Scalable SaaS:** Integrating regional payment gateways—including M-Pesa Daraja API, Paystack, Pesapal, and Flutterwave—with idempotent webhook handling for multi-user SaaS products.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0EA5E9&height=46&section=header&text=%E2%97%86%20CREDITICA%20%E2%80%94%20AI%20Banking%20Fintech&fontSize=22&fontColor=FFFFFF&fontAlignY=62&animation=fadeIn"/>
+---
 
-> **Banking fintech with AI-driven risk detection.**
+## GitHub Activity & Telemetry
 
-**▸ What it does:** Account and credit workflows, with real-time risk scoring on every transaction.
-**▸ Risk engine:** Python service that scores transactions and flags anomalies for review.
-**▸ Client:** TypeScript web app for customers and operations staff.
-**▸ Architecture:** Modular services behind one API gateway, with an audit trail on every decision.
+<div align="center">
 
-```mermaid
-flowchart LR
-    A["🌐 Web Client<br/>React · TypeScript"] --> B{"⟫ API Gateway ⟪"}
-    B --> C["🏦 Ledger Service<br/>TypeScript"]
-    B --> D["🧠 Risk Engine<br/>Python · ML"]
-    C --> E[("🟦 PostgreSQL")]
-    D --> E
-    D --> F["🟧 Alerts & Audit Log"]
-    classDef blue fill:#2563EB,stroke:#0B1220,color:#fff
-    classDef green fill:#22C55E,stroke:#0B1220,color:#0B1220
-    classDef yellow fill:#FACC15,stroke:#0B1220,color:#0B1220
-    classDef orange fill:#F97316,stroke:#0B1220,color:#0B1220
-    class A,C blue
-    class B yellow
-    class D green
-    class F orange
-```
+[![Eliud Rotich GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rotz-kirwa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=F8FAFC)](https://github.com/Rotz-kirwa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotz-kirwa&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=F97316&text_color=F8FAFC)](https://github.com/Rotz-kirwa)
 
-**◆ Stack:** `TypeScript` · `Python` · `AI risk models` · `PostgreSQL` · `Docker`
+[![Contribution Streak](https://streak-stats.demolab.com?user=Rotz-kirwa&hide_border=true&background=0B1220&ring=0284C7&fire=F97316&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B)](https://github.com/Rotz-kirwa)
 
-<br/><br/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rotz-kirwa&bg_color=0B1220&color=38BDF8&line=0284C7&point=F97316&area=true&hide_border=true)](https://github.com/Rotz-kirwa)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:F8FAFC&height=46&section=header&text=%F0%9F%8F%9B%EF%B8%8F%20%20AGENT%2021%20%E2%80%94%20Government%20Transparency%20Portal&fontSize=22&fontColor=0B1220&fontAlignY=62&animation=fadeIn"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Rotz-kirwa&label=Profile+Views&color=0284C7&style=for-the-badge)](https://github.com/Rotz-kirwa)
 
-> **An eCitizen-style portal that makes government activity visible and rateable.**
+</div>
 
-**▸ Activity feed:** Government projects, decisions, and spending in one timeline.
-**▸ Contracts:** Public tenders benchmarked on price, with overpriced contracts flagged.
-**▸ Ratings:** Agency and project performance scores from published data.
-**▸ Timeline:** Every contract and milestone traced from award to delivery.
+---
 
-**◆ Stack:** `AI` · `Data pipelines` · `Public-data integrations`
+<div align="center">
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FACC15,100:F97316&height=46&section=header&text=%E2%9A%BD%20%20ODDSARENA%20%E2%80%94%20AI%20Football%20Prediction&fontSize=22&fontColor=0B1220&fontAlignY=62&animation=fadeIn"/>
-
-> **AI football prediction engine powered by LLM engines.**
-
-**▸ Models:** Python prediction pipelines combined with LLM reasoning over match data.
-**▸ Product:** TypeScript front end for predictions, analytics, and user engagement.
-**▸ Output:** Match probabilities with explanations users can read, not just a score.
-
-**◆ Stack:** `Python` · `TypeScript` · `LLM engines`
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:2563EB&height=46&section=header&text=%F0%9F%92%BC%20%20KAZI%20MAJU%20%E2%80%94%20Job%20Board%20for%20Kenya%20%E2%86%92%20Abroad&fontSize=22&fontColor=FFFFFF&fontAlignY=62&animation=fadeIn"/>
-
-> **Connects Kenyan job seekers with work abroad.**
-
-**▸ Matching:** AI-assisted matching between candidate profiles and overseas listings.
-**▸ Applications:** Track every application from submission to decision.
-**▸ Access:** Built mobile-first for job seekers across Kenya.
-
-**◆ Stack:** `Python` · `TypeScript` · `AI matching`
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:22C55E,50:2563EB,100:FACC15&height=70&section=header&text=%E2%97%86%20ACTIVE%20PROJECTS&fontSize=28&fontColor=FFFFFF&fontAlignY=60"/>
-
-<br/>
-
-| Project | What it is | Stack |
-|:---|:---|:---|
-| **MQULIMA** | AI agricultural ecosystem: crop diagnostics, market intelligence, marketplace, payments | React · Node.js · PostgreSQL |
-| **TAIFASTATS** | Cryptographic football ticketing with QR validation, offline checks, M-Pesa payments | M-Pesa · QR · Crypto verification |
-| **WEBMAKERS** | Digital product studio: 30+ projects, business sites, SaaS, payments, cloud | Production engineering |
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563EB,50:22C55E,100:FACC15&height=70&section=header&text=%E2%9A%A1%20%20COMMAND%20CENTER&fontSize=28&fontColor=FFFFFF&fontAlignY=60"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rotz-kirwa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22C55E&text_color=F8FAFC&border_radius=16" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotz-kirwa&layout=compact&langs_count=10&hide_border=true&bg_color=0B1220&title_color=FACC15&text_color=F8FAFC&border_radius=16" width="40%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Rotz-kirwa&hide_border=true&background=0B1220&ring=2563EB&fire=F97316&currStreakLabel=22C55E&sideLabels=FACC15&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=38BDF8&border_radius=16" width="75%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,40:22C55E,70:FACC15,100:F97316&height=160&section=footer&text=LET%27S%20BUILD&fontSize=46&fontColor=FFFFFF&fontAlignY=40&stroke=0B1220&strokeWidth=2&desc=%E2%97%86%20Have%20a%20difficult%20problem%3F%20Good.%20I%20like%20difficult%20problems.%20%E2%97%86&descAlignY=72&descSize=17&descColor=FFFFFF"/>
+**Eliud Rotich** • Nairobi, Kenya • [eliud-portfolio.vercel.app](https://eliud-portfolio.vercel.app/) • [eliudkirwa451@gmail.com](mailto:eliudkirwa451@gmail.com)
 
 </div>
