@@ -1,143 +1,376 @@
 <div align="center">
 
-# ELIUD ROTICH
-### **Full-Stack Software Engineer • AI Engineer • Cloud & DevOps Engineer • Software Architect**
+<!-- ========================================================= -->
+<!--          ANIMATED SPECTRUM HEADER // ELIUD ROTICH         -->
+<!-- ========================================================= -->
 
-<img src="YOUR_HERO_IMAGE_URL" alt="Cinematic aerial dogfight hero banner with fighter jets in storm clouds" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,18:22C55E,36:2563EB,54:FACC15,72:F97316,90:EF4444,100:050816&height=210&section=header&text=ELIUD%20ROTICH&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20%E2%80%A2%20AI%20ENGINEER%20%E2%80%A2%20CLOUD%20%26%20DEVOPS%20%E2%80%A2%20ARCHITECT&descAlignY=66&descSize=17&descColor=FFFFFF&animation=twinkling&font=Orbitron&stroke=050816&strokeWidth=2" width="100%"/>
 
-*Architecting resilient software, AI systems, cloud infrastructure, and fintech platforms from Nairobi to global markets.*
+<!-- ========================================================= -->
+<!--           CINEMATIC DOGFIGHT HERO VISUAL                  -->
+<!-- ========================================================= -->
+
+<img src="./assets/hero-dogfight.jpg" alt="Cinematic Fighter Jet Dogfight Hero Banner" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eliud--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://eliud-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rotz--kirwa-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rotz-kirwa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliudrotich--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliudrotich-dev/)
-[![Email](https://img.shields.io/badge/Email-eliudkirwa451%40gmail.com-EA580C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliudkirwa451@gmail.com)
+<!-- ========================================================= -->
+<!--           MULTI-COLOR ANIMATED TYPING HUD                 -->
+<!-- ========================================================= -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=900&height=44&lines=%E2%96%B8+ARCHITECTING+RESILIENT+AI+%26+CLOUD+SYSTEMS;%E2%96%B8+ENGINEERING+HIGH-VELOCITY+FINTECH+%26+SAAS;%E2%96%B8+FULL-STACK+EXECUTION+%2F%2F+NAIROBI+TO+GLOBAL;%E2%96%B8+PRECISION+CODE+%E2%80%A2+ZERO+COMPROMISE"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=600&color=FACC15&center=true&vCenter=true&width=900&height=34&lines=%5B+STATUS%3A+ONLINE+%5D+%E2%80%A2+%5B+STUDIO%3A+WEBMAKERS+%5D+%E2%80%A2+%5B+DOMAIN%3A+AI+%C3%97+FINTECH+%C3%97+GOVTECH+%5D"/>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--           SPECTRUM ACTION & SOCIAL BADGES                 -->
+<!-- ========================================================= -->
+
+<a href="https://eliud-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=090D16"/>
+</a>
+<a href="https://github.com/Rotz-kirwa">
+  <img src="https://img.shields.io/badge/GITHUB-22C55E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=090D16"/>
+</a>
+<a href="https://www.linkedin.com/in/eliudrotich-dev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FACC15?style=for-the-badge&logo=linkedin&logoColor=090D16&labelColor=090D16"/>
+</a>
+<a href="mailto:eliudkirwa451@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EF4444?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=090D16"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Rotz-kirwa&label=RADAR+PINGS&color=F97316&style=for-the-badge&labelColor=090D16"/>
 
 </div>
 
----
+<!-- ========================================================= -->
+<!--           ANIMATED SPECTRUM SECTION DIVIDER               -->
+<!-- ========================================================= -->
 
-## Developer Identity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,25:2563EB,50:FACC15,75:F97316,100:EF4444&height=4" width="100%"/>
 
-I am **Eliud Rotich**, a **Full-Stack Software Engineer**, **AI Engineer**, **Cloud & DevOps Engineer**, and **Software Architect** based in **Nairobi, Kenya**, and founder of **WebMakers**. I design and ship production-grade SaaS products, fintech integrations, AI workflows, and cloud systems built for reliability, clarity, and real-world scale.
-
-| Dimension | Profile |
-| :--- | :--- |
-| **Role & Focus** | Full-Stack Software Engineer • AI Engineer • Cloud & DevOps Engineer • Software Architect |
-| **Domain Strengths** | Scalable SaaS, Fintech & Payment Rails, Applied AI & Agents, Cloud Infrastructure |
-| **Base** | Nairobi, Kenya • Building for East Africa and global users |
-| **Studio** | Founder — **WebMakers** |
-
-> *"Engineering is turning complex operational problems into fast, observable, and maintainable software systems."*
-
----
-
-## ACTIVE PROJECTS & PRODUCTS
-
-### 01. CREDITICA — AI-Powered Fintech & Credit Intelligence Platform
-* **Category:** Banking | Fintech | AI | Risk Intelligence
-* **Overview:** An intelligent financial technology platform designed to modernize credit assessment, lending operations, and financial risk management with structured data evaluation and risk workflows.
-* **Problem Solved:** Manual credit underwriting and fragmented financial checks slow lending decisions, obscure portfolio risk, and make consistent borrower evaluation difficult to scale.
-* **Core Capabilities:**
-  * AI-powered credit risk assessment and intelligent borrower profiling
-  * Predictive default-risk analysis and creditworthiness evaluation
-  * Automated financial data processing and fraud / suspicious-activity detection
-  * Financial analytics, reporting, and intelligent decision-support workflows
-* **Technology Stack:** TypeScript, Python, AI/ML models, modern frontend architecture, backend APIs, PostgreSQL, cloud infrastructure
-* **Architecture & Engineering Highlights:** Built as a modular fintech system separating the TypeScript application layer from Python AI/ML risk services, emphasizing strict data validation, auditability, API reliability, observability, and readiness for banking integrations.
-* **Status:** Active Development
-
----
-
-### 02. ODDAARENA — AI-Powered Football Intelligence & Prediction Platform
-* **Category:** SportsTech | Artificial Intelligence | Predictive Analytics
-* **Overview:** An AI-powered football intelligence platform combining analytical modeling and LLM-assisted reasoning to evaluate matches, historical patterns, and performance indicators.
-* **Problem Solved:** Football match research often requires sifting through scattered historical stats, form trends, and head-to-head records across disconnected sources.
-* **Core Capabilities:**
-  * AI-assisted match analysis, historical match statistics, and head-to-head breakdowns
-  * Team and player performance evaluation with goal probability and match outcome modeling
-  * Predictive match intelligence and LLM-powered football research and explanations
-* **Technology Stack:** Python, TypeScript, LLM engines, machine learning, data analytics pipelines, modern API architecture
-* **Architecture & Engineering Highlights:** Combines Python analytical and prediction services with TypeScript application APIs and LLM reasoning layers. Predictions represent probabilistic and analytical estimates rather than guaranteed outcomes.
-* **Status:** Active Development
-
----
-
-### 03. KAZI MAJU — International Employment & Recruitment Platform
-* **Category:** HRTech | Recruitment | AI | International Mobility
-* **Overview:** A recruitment and employment platform connecting Kenyan job seekers with verified international opportunities while streamlining profile readiness and application workflows.
-* **Problem Solved:** Cross-border job discovery is frequently hindered by opaque requirements, manual CV tailoring, fragmented application tracking, and fraudulent job listings.
-* **Core Capabilities:**
-  * International job listings, job seeker and employer/recruiter profiles, and country-specific employment guidance
-  * Intelligent job matching, eligibility/qualification alignment, and AI-assisted CV analysis
-  * Automated application assistance, application tracking, recruitment workflow management, and scam / suspicious-job detection
-* **Technology Stack:** TypeScript, Python, AI agents, LLM integrations, modern web architecture, relational database and API integrations
-* **Architecture & Engineering Highlights:** Structured around modular recruitment services, matching pipelines, AI-assisted document workflows, role-aware access control, and verification checks focused on trust and transparency.
-* **Status:** Active Development
-
----
-
-### 04. AGENT 21 — Next-Generation Government Transparency & Civic Intelligence Platform
-* **Category:** GovTech | CivicTech | AI | Public Accountability
-* **Overview:** A civic intelligence and public-service platform designed to unify access to government services while bringing structure and visibility to public projects, procurement, and expenditure.
-* **Problem Solved:** Public service information, procurement records, and project timelines are often spread across disconnected portals and dense documents, making civic oversight difficult.
-* **Core Capabilities:**
-  * Unified access to government services, government activity monitoring, and public institution performance tracking
-  * Public project tracking, implementation timelines/progress, and public expenditure insights
-  * Government contract transparency, public procurement analysis, contract cost comparisons, and flagging potentially overpriced public contracts
-  * Citizen feedback and service ratings, intelligent search across public records, and AI-assisted document analysis
-* **Technology Stack:** TypeScript, Python, AI agents, LLM engines, data analytics, modern cloud architecture, API integrations
-* **Architecture & Engineering Highlights:** Designed with modular service boundaries, data aggregation pipelines, document parsing/analysis workflows, and explainable AI summaries tied to source records. Assessments of procurement anomalies or performance remain analytical indicators rather than established legal or factual conclusions without verified evidence.
-* **Status:** Active Development
-
----
-
-## Technology Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` |
-| **Backend** | `Node.js` `Express` `Python` `Flask` `REST APIs` |
-| **AI & Machine Learning** | `OpenAI` `Claude` `Gemini` `LLM Integrations` `AI Agents` `Predictive Analytics` `Machine Learning` |
-| **Databases** | `PostgreSQL` `MySQL` `SQLite` `Redis` |
-| **Cloud & DevOps** | `AWS` `Docker` `Nginx` `Vercel` `Render` `CI/CD` |
-| **Payments & Integrations** | `M-Pesa Daraja API` `Paystack` `Pesapal` `Flutterwave` `Webhooks` |
-
----
-
-## Engineering Architecture & Capabilities
-
-* **Full-Stack Application Architecture:** Designing cohesive web applications and APIs with clear boundaries between UI state, business logic, and data storage.
-* **Microservices & Modular Architecture:** Decoupling independent workloads—such as analytics, AI pipelines, notifications, and core APIs—for maintainability and independent scaling.
-* **AI Systems & Agent Workflows:** Integrating LLMs, structured tool calling, retrieval/analysis pipelines, and AI agents into practical product workflows with predictable fallbacks.
-* **API Design & Third-Party Integrations:** Building clean RESTful services and resilient integrations with external providers and asynchronous webhooks.
-* **Database Design & Optimization:** Modeling relational schemas, indexing strategies, query performance, and caching layers with PostgreSQL, MySQL, SQLite, and Redis.
-* **Authentication & Authorization:** Implementing session/token security, role-based access control, and protected data boundaries across client and server layers.
-* **Cloud Deployment, DevOps & CI/CD:** Containerizing services with Docker, configuring reverse proxies with Nginx, automating builds/deployments, and hosting on AWS, Vercel, and Render.
-* **Payment Engineering & Scalable SaaS:** Integrating regional payment gateways—including M-Pesa Daraja API, Paystack, Pesapal, and Flutterwave—with idempotent webhook handling for multi-user SaaS products.
-
----
-
-## GitHub Activity & Telemetry
+<!-- ========================================================= -->
+<!--           SECTION 01 // DEVELOPER IDENTITY                -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-[![Eliud Rotich GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rotz-kirwa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=F8FAFC)](https://github.com/Rotz-kirwa)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotz-kirwa&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=F97316&text_color=F8FAFC)](https://github.com/Rotz-kirwa)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=01%20%2F%2F%20DEVELOPER%20IDENTITY&fontSize=34&fontColor=38BDF8&animation=fadeIn&font=Orbitron"/>
 
-[![Contribution Streak](https://streak-stats.demolab.com?user=Rotz-kirwa&hide_border=true&background=0B1220&ring=0284C7&fire=F97316&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B)](https://github.com/Rotz-kirwa)
+<img src="https://img.shields.io/badge/FULL--STACK_ENGINEER-22C55E?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/AI_ENGINEER-2563EB?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-FACC15?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/SOFTWARE_ARCHITECT-F97316?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/FOUNDER_@_WEBMAKERS-EF4444?style=for-the-badge&labelColor=0B1220"/>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rotz-kirwa&bg_color=0B1220&color=38BDF8&line=0284C7&point=F97316&area=true&hide_border=true)](https://github.com/Rotz-kirwa)
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rotz-kirwa&label=Profile+Views&color=0284C7&style=for-the-badge)](https://github.com/Rotz-kirwa)
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=420&height=36&lines=COMMAND_PROFILE+%2F%2F+NAIROBI%2C+KE"/>
+
+<img src="https://img.shields.io/badge/BASE-NAIROBI%2C_KENYA-22C55E?style=flat-square&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/STUDIO-WEBMAKERS-2563EB?style=flat-square&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/REACH-GLOBAL_SCALE-FACC15?style=flat-square&labelColor=090D16"/>
+
+<br/><br/>
+
+**Eliud Rotich** — Engineering production-grade SaaS platforms, AI systems, payment rails, and resilient cloud infrastructure built for high-velocity execution.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=420&height=36&lines=CORE_DIRECTIVE+%2F%2F+BUILD_%26_SCALE"/>
+
+<img src="https://img.shields.io/badge/FINTECH-EF4444?style=flat-square&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-22C55E?style=flat-square&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/CLOUD_INFRA-38BDF8?style=flat-square&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/GOVTECH-FACC15?style=flat-square&labelColor=090D16"/>
+
+<br/><br/>
+
+Turning complex operational bottlenecks into **fast, observable, and scalable software products** across East Africa and global markets.
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF4444,25:F97316,50:FACC15,75:2563EB,100:22C55E&height=4" width="100%"/>
+
+<!-- ========================================================= -->
+<!--           SECTION 02 // ACTIVE PROJECTS & PRODUCTS        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-**Eliud Rotich** • Nairobi, Kenya • [eliud-portfolio.vercel.app](https://eliud-portfolio.vercel.app/) • [eliudkirwa451@gmail.com](mailto:eliudkirwa451@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=02%20%2F%2F%20ACTIVE%20PROJECTS%20%26%20PRODUCTS&fontSize=34&fontColor=FACC15&animation=fadeIn&font=Orbitron"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=32&lines=DEPLOYING+PRODUCTION+PLATFORMS+ACROSS+FINTECH+%E2%80%A2+SPORTSTECH+%E2%80%A2+HRTECH+%E2%80%A2+GOVTECH"/>
+
+<br/>
+
+<table>
+<tr>
+
+<!-- PROJECT 01: CREDITICA -->
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22C55E,100:2563EB&height=65&text=01%20%2F%2F%20CREDITICA&fontSize=24&fontColor=FFFFFF&font=Orbitron"/>
+
+<img src="https://img.shields.io/badge/FINTECH-22C55E?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/CREDIT_AI-2563EB?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ACTIVE_DEV-FACC15?style=for-the-badge&labelColor=090D16"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,python,postgres,aws,docker&theme=dark"/>
+
+<br/><br/>
+
+**AI-Powered Fintech & Credit Intelligence Platform**
+
+Modernizes credit underwriting, borrower profiling, and lending risk operations through automated financial data processing and predictive default modeling.
+
+<img src="https://img.shields.io/badge/RISK_SCORING-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/FRAUD_DETECTION-EF4444?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/DECISION_ENGINE-38BDF8?style=flat-square&labelColor=0B1220"/>
+
+<br/><br/>
+
+*Modular TypeScript application layer decoupled from Python AI/ML risk services with auditability, strict validation, and banking-ready APIs.*
+
+</td>
+
+<!-- PROJECT 02: ODDAARENA -->
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:FACC15&height=65&text=02%20%2F%2F%20ODDAARENA&fontSize=24&fontColor=FFFFFF&font=Orbitron"/>
+
+<img src="https://img.shields.io/badge/SPORTSTECH-2563EB?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/LLM_ANALYTICS-FACC15?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ACTIVE_DEV-22C55E?style=for-the-badge&labelColor=090D16"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,postgres&theme=dark"/>
+
+<br/><br/>
+
+**AI-Powered Football Intelligence & Prediction Platform**
+
+Combines statistical modeling and LLM-powered reasoning to analyze match form, head-to-head trends, goal probabilities, and team performance.
+
+<img src="https://img.shields.io/badge/MATCH_INTEL-2563EB?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/GOAL_PROBABILITY-F97316?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/LLM_RESEARCH-22C55E?style=flat-square&labelColor=0B1220"/>
+
+<br/><br/>
+
+*Python predictive analytics pipeline paired with TypeScript APIs and explainable LLM match briefings (probabilistic indicators, not guaranteed outcomes).*
+
+</td>
+
+</tr>
+<tr>
+
+<!-- PROJECT 03: KAZI MAJU -->
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FACC15,100:F97316&height=65&text=03%20%2F%2F%20KAZI%20MAJU&fontSize=24&fontColor=FFFFFF&font=Orbitron"/>
+
+<img src="https://img.shields.io/badge/HRTECH-FACC15?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-F97316?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ACTIVE_DEV-2563EB?style=for-the-badge&labelColor=090D16"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,python,nextjs,postgres&theme=dark"/>
+
+<br/><br/>
+
+**International Employment & Recruitment Platform**
+
+Connects Kenyan professionals with verified global roles using AI-assisted CV analysis, eligibility matching, workflow tracking, and scam detection.
+
+<img src="https://img.shields.io/badge/CV_INTELLIGENCE-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/SCAM_SHIELD-EF4444?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/GLOBAL_MOBILITY-38BDF8?style=flat-square&labelColor=0B1220"/>
+
+<br/><br/>
+
+*Scalable recruitment service architecture engineered around role-based workflows, candidate-job matching pipelines, and verified employer trust checks.*
+
+</td>
+
+<!-- PROJECT 04: AGENT 21 -->
+<td width="50%" valign="top" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F97316,100:EF4444&height=65&text=04%20%2F%2F%20AGENT%2021&fontSize=24&fontColor=FFFFFF&font=Orbitron"/>
+
+<img src="https://img.shields.io/badge/GOVTECH-EF4444?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/CIVIC_AI-F97316?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ACTIVE_DEV-22C55E?style=for-the-badge&labelColor=090D16"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,python,react,postgres,docker&theme=dark"/>
+
+<br/><br/>
+
+**Next-Generation Government Transparency & Civic Intelligence Platform**
+
+Unifies public service discovery with project progress tracking, procurement cost benchmarking, expenditure insights, and citizen feedback.
+
+<img src="https://img.shields.io/badge/PROCUREMENT_AUDIT-FACC15?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/PROJECT_RADAR-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/CIVIC_SEARCH-38BDF8?style=flat-square&labelColor=0B1220"/>
+
+<br/><br/>
+
+*Modular data-aggregation and AI document-analysis pipelines designed for source-linked, auditable, and evidence-grounded civic insights.*
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,25:2563EB,50:FACC15,75:F97316,100:EF4444&height=4" width="100%"/>
+
+<!-- ========================================================= -->
+<!--           SECTION 03 // TECHNOLOGY ARSENAL                -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=03%20%2F%2F%20TECHNOLOGY%20ARSENAL&fontSize=34&fontColor=22C55E&animation=fadeIn&font=Orbitron"/>
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/FRONTEND_SYSTEMS-2563EB?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-38BDF8?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-22C55E?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/BACKEND_%26_APIS-22C55E?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Python-FACC15?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Flask-F97316?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/AI_%26_MACHINE_LEARNING-FACC15?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenAI-FFFFFF?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Claude-F97316?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Gemini-38BDF8?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/AI_Agents-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Predictive_ML-EF4444?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/DATABASES_%26_CACHE-F97316?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/MySQL-38BDF8?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/SQLite-FACC15?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Redis-EF4444?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-38BDF8?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,githubactions&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-F97316?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Docker-2563EB?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Nginx-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Render-38BDF8?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/CI%2FCD-FACC15?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/PAYMENTS_%26_RAILS-EF4444?style=for-the-badge&labelColor=090D16"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postman,nodejs,ts&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/M--Pesa_Daraja-22C55E?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Paystack-38BDF8?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Pesapal-2563EB?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Flutterwave-FACC15?style=flat-square&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/Webhooks-F97316?style=flat-square&labelColor=0B1220"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF4444,25:F97316,50:FACC15,75:2563EB,100:22C55E&height=4" width="100%"/>
+
+<!-- ========================================================= -->
+<!--           SECTION 04 // ARCHITECTURE & CAPABILITIES       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=95&text=04%20%2F%2F%20ARCHITECTURE%20%26%20CAPABILITIES&fontSize=34&fontColor=F97316&animation=fadeIn&font=Orbitron"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1400&pause=600&color=22C55E&center=true&vCenter=true&width=860&height=40&lines=%24+architect+--blueprint+microservices+ai-agents+fintech-rails;%24+deploy+--zero-downtime+docker+nginx+aws+ci-cd;%24+status%3A+ALL_SYSTEMS_NOMINAL"/>
+
+</div>
+
+```text
+╭───────────────────────────────────────────────────────────────────────────────────╮
+│  ⚡ SYSTEM ARCHITECTURE MATRIX // ELIUD ROTICH                                    │
+├───────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                   │
+│  [01] FULL-STACK & SAAS       ──▶  End-to-end React/Next.js + Node/Python apps    │
+│  [02] MICROSERVICES           ──▶  Modular service boundaries & event-driven APIs │
+│  [03] AI & AGENT WORKFLOWS    ──▶  OpenAI / Claude / Gemini tool-calling & RAG    │
+│  [04] FINTECH & PAYMENTS      ──▶  M-Pesa Daraja, Paystack, Pesapal, Flutterwave  │
+│  [05] DATA & CACHING          ──▶  PostgreSQL, MySQL, SQLite, Redis optimization  │
+│  [06] SECURITY & AUTH         ──▶  RBAC, token/session hardening, webhook signing │
+│  [07] CLOUD & CI/CD           ──▶  AWS, Docker, Nginx, Vercel, Render automation  │
+│                                                                                   │
+╰───────────────────────────────────────────────────────────────────────────────────╯
